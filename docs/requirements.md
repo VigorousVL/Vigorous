@@ -23,7 +23,22 @@ Secondary target users:
 - ?
 
 ## 2. System Overview
+Vigorous is a project that will be developed over the course of several years, starting with a Java prototype and expand into a full platform including:
+- Backend
+- Database
+- Web application
+- UX prototypes
+- AI-powered features
 
+The system is modular, with each major life area represented as a separate module.
+
+## 3. Functional Requirements
+This part will focus more around the actual functions within the system.
+
+### 3.1 Dashboard Module
+The dashbord provides the user with a simple, easy to navigate overview of the user's day and progress. 
+
+**Requirements:**
 
 
 
